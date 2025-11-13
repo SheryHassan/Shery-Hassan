@@ -18,7 +18,7 @@ My personal profile
 ---
 
 ## 🧑‍💻 About Me
-👤 Name: Sereen Hassan Sayed Ahmed.
+👤 Name: Shereen Hassan Sayed Ahmed.
 
 🎯 I'm a **Junior Front-End Engineer** passionate about building responsive and modern web applications.
   
