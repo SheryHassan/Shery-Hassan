@@ -1,6 +1,6 @@
 # Shery-Hassan
 My personal profile
-<h1 align="center">Hi there, I'm Mohamed-Abo Hadied 👋</h1>
+<h1 align="center">Hi there, I'm Shereen Hassan 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
@@ -18,7 +18,7 @@ My personal profile
 ---
 
 ## 🧑‍💻 About Me
-👤 Name: Mohamed Ahmed Mohamed Abo El-Hadid.
+👤 Name: Sereen Hassan Sayed Ahmed.
 
 🎯 I'm a **Junior Front-End Engineer** passionate about building responsive and modern web applications.
   
@@ -28,7 +28,7 @@ My personal profile
   
 🌍 Based in Egypt 🇪🇬, and I'm always curious to learn more about new web technologies and cybersecurity!
 
-🏫 University: Faculty of Arts – Beni Suef University.
+🏫 University: Faculty of Arts – Helwan University.
 
 🎯 Goal:  Goal: Become a professional software engineer and cybersecurity specialist.
 
