@@ -1,6 +1,6 @@
 # 👩‍💻 Shereen Hassan Sayed
 
-🎯 **Aspiring Front-End Developer**  
+🎯 **Junior Front-End Developer**  
 Passionate about building clean, responsive, and user-friendly web interfaces.
 
 ---
@@ -37,7 +37,7 @@ Passionate about building clean, responsive, and user-friendly web interfaces.
 
 ## 🌐 Social Accounts
 - 📘 Facebook: [shery.hassan.9699](https://www.facebook.com/shery.hassan.9699)
-- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/201025420132)
+- ✉️ Email: [sheryhassan1991@gmail.com](mailto:sheryhassan1991@gmail.com)
 
 ---
 
